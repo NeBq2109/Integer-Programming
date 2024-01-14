@@ -8,4 +8,3 @@ with new constraints: x4>=0 and x4<=1.
 Upgrades for the future:
 - end proceeding branch when some integer solution is better than actually solved subproblem
 - create GUI for initializing problems (appending and poping constraints) and presenting solutions
-- create web API via Django
